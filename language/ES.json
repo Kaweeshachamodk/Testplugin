@@ -247,7 +247,7 @@
             "NEW_UPDATE": "*¡Hay una nueva actualización disponible para el bot!*\n\nCambios:\n```",
             "UPDATE_NOW_DESC": "Actualizar ahora.",
             "UPDATING": "_La actualización está en curso..._",
-            "INVALID_HEROKU": "*❌ ¡Tu información de Heroku es incorrecta!*",
+            "INVALID_HEROKU": "*❌Tu información de Heroku es incorrecta!*",
             "UPDATED": "*✅ ¡La actualización fue exitosa!*",
             "UPDATED_LOCAL": "*✅ ¡La actualización fue exitosa!*",
             "AFTER_UPDATE": "*¡Reinicio de WhatsAsena*",
